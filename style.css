@@ -1,0 +1,22 @@
+.card {
+    margin: 0 auto;
+    float: none;
+}
+
+section#feature {
+    background-color: rgba(23,23,23,1);
+}
+
+section#background {
+	background-image: url(https://wallpapersite.com/images/wallpapers/motocross-3840x2278-off-road-racing-hd-4k-11176.jpg);
+	padding: 200px;
+	text-align: center;
+}
+
+section#box {
+	background-color: rgba(24,24,24,1);
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
